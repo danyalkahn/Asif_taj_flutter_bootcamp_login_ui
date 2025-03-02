@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/dani/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/dani/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/dani/programs/flutter/M-Box-Login-UI/android/app/.cxx/Debug/1u4y546q/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/dani/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/dani/programs/flutter/M-Box-Login-UI/android/app/.cxx/Debug/1u4y546q/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

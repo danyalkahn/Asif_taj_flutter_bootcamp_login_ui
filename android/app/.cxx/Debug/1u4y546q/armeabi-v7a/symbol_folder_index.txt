@@ -1,0 +1,1 @@
+/home/dani/programs/flutter/M-Box-Login-UI/build/app/intermediates/cxx/Debug/1u4y546q/obj/armeabi-v7a

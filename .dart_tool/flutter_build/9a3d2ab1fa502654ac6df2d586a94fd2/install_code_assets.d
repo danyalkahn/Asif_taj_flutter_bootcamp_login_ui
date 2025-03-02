@@ -1,0 +1,1 @@
+ /home/dani/programs/flutter/M-Box-Login-UI/.dart_tool/flutter_build/9a3d2ab1fa502654ac6df2d586a94fd2/native_assets.json: 
